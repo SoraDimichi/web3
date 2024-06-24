@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "minidenticons": "^4",
+    "color-parse": "^2",
     "ethers": "^6",
     "react": "^18",
     "react-dom": "^18",
